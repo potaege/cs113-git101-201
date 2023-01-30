@@ -1,0 +1,5 @@
+v = input()
+
+v_int  int(v)
+
+print(v_int)
